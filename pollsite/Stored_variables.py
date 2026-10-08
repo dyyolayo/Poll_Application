@@ -1,1 +1,1 @@
-DJANGO_SECRET_KEY = 'django-insecure-vdim!-u39gb=v#pvlsqkv45+s53vzr3my%xmp0ery$sdpab9!#'
+# DJANGO_SECRET_KEY = "huh"
